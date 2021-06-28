@@ -146,6 +146,12 @@ const miscellaneous = [
     name: "URL Shortener",
     url: "https://preshyurlshortener.herokuapp.com/shorten",
   },
+  {
+    // Add image in './styles/images.css' in #misc3
+    id: "misc4",
+    name: "Ajax Todo List",
+    url: "https://myajaxtodolist.herokuapp.com/",
+  },
 ];
 // Contact form text, and Jotforms link
 // To get your own jotform link, go to https://www.jotform.com/
