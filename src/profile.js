@@ -136,7 +136,7 @@ const miscellaneous = [
   },
   {
     // Add image in './styles/images.css' in #misc2
-    id: "Nodejs",
+    id: "misc2",
     name: "Nodejs Blog",
     url: "https://preshyblog.herokuapp.com/",
   },
