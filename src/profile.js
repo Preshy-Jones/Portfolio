@@ -1,3 +1,6 @@
+import tailwindlogo from "./styles/images/tailwindcss.svg";
+import jquerylogo from "./styles/images/jquery-icon.svg";
+
 // Change website animations
 const animation = {
 	// make it false to switch off fade-up animation
@@ -28,51 +31,79 @@ const skillsBar = [
 	{
 		name: "HTML5",
 		faClass: "fab fa-html5",
+		logo: false,
 	},
 	{
 		name: "CSS3",
 		faClass: "fab fa-css3",
+		logo: false,
 	},
 	{
 		name: "Javascript",
 		faClass: "fab fa-js",
+		logo: false,
 	},
 	{
 		name: "React",
 		faClass: "fab fa-react",
+		logo: false,
 	},
 	{
 		name: "SASS",
 		faClass: "fab fa-sass",
+		logo: false,
 	},
 	{
 		name: "Node",
 		faClass: "fab fa-node",
+		logo: false,
 	},
 	{
 		name: "Python",
 		faClass: "fab fa-python",
+		logo: false,
 	},
 	{
 		name: "PHP",
 		faClass: "fab fa-php",
+		logo: false,
 	},
 	{
 		name: "Laravel",
 		faClass: "fab fa-laravel",
+		logo: false,
 	},
 	{
 		name: "Database",
 		faClass: "fas fa-database",
+		logo: false,
 	},
 	{
 		name: "Github",
 		faClass: "fab fa-github",
+		logo: false,
 	},
 
 	{
 		name: "AWS",
 		faClass: "fab fa-aws",
+		logo: false,
+	},
+	{
+		name: "Tailwind",
+		faClass: false,
+		logo: {
+			logo: tailwindlogo,
+			width: 50,
+		},
+	},
+	{
+		name: "Jquery",
+		faClass: false,
+		logo: {
+			logo: jquerylogo,
+			width: 27,
+		},
 	},
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
