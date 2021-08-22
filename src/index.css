@@ -1,0 +1,10 @@
+.flexunique {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.flexself {
+	text-decoration: none;
+	color: black;
+}

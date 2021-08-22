@@ -117,6 +117,7 @@ const projects = [
 		name: "Burjtech.org",
 		skills: ["HTML, CSS, JS, Node JS"],
 		url: "http://burjtech.org",
+		github: "https://github.com/Preshy-Jones/BURJTECH-LTD",
 	},
 	{
 		// Add image in './styles/images.css' in #project2
@@ -124,6 +125,7 @@ const projects = [
 		name: "Sis Certifications Nigeria",
 		skills: ["HTML, CSS, JS, React, Node JS"],
 		url: "https://preshy-jones.github.io/CisCertifications/#/",
+		github: "https://github.com/Preshy-Jones/CisCertifications",
 	},
 	{
 		// Add image in './styles/images.css' in #project3
@@ -131,6 +133,7 @@ const projects = [
 		name: "Art Scope",
 		skills: ["HTML, CSS"],
 		url: "https://preshy-jones.github.io/Art-Scope/",
+		github: "https://github.com/Preshy-Jones/Art-Scope",
 	},
 	{
 		// Add image in './styles/images.css' in #project4
@@ -138,6 +141,7 @@ const projects = [
 		name: "Dog Website",
 		skills: ["HTML, CSS, JS"],
 		url: "https://preshy-jones.github.io/DOG/",
+		github: "https://github.com/Preshy-Jones/DOG",
 	},
 	{
 		// Add image in './styles/images.css' in #project5
@@ -145,6 +149,7 @@ const projects = [
 		name: "Anime Gallery Touch slider",
 		skills: ["HTML, CSS, JS"],
 		url: "https://animegallery.herokuapp.com/",
+		github: "https://github.com/Preshy-Jones/Animepedia",
 	},
 	// {
 	//   // Add image in './styles/images.css' in #project6
@@ -165,6 +170,7 @@ const miscellaneous = [
 		name: "Book Store",
 		url: "https://preshybooks.herokuapp.com/",
 		skills: ["Nodejs, Express, Mongodb"],
+		github: "https://github.com/Preshy-Jones/Bookstore",
 	},
 	{
 		// Add image in './styles/images.css' in #misc2
@@ -172,6 +178,7 @@ const miscellaneous = [
 		name: "Nodejs Blog",
 		url: "https://preshyblog.herokuapp.com/",
 		skills: ["Nodejs, Express, Mongodb"],
+		github: "https://github.com/Preshy-Jones/BLOG-DAY23-25",
 	},
 	{
 		// Add image in './styles/images.css' in #misc3
@@ -179,6 +186,7 @@ const miscellaneous = [
 		name: "URL Shortener",
 		url: "https://preshyurlshortener.herokuapp.com/shorten",
 		skills: ["Nodejs, Express, Mongodb"],
+		github: "https://github.com/Preshy-Jones/Url-Shortener",
 	},
 	{
 		// Add image in './styles/images.css' in #misc3
@@ -186,6 +194,7 @@ const miscellaneous = [
 		name: "Ajax Todo List",
 		url: "https://myajaxtodolist.herokuapp.com/",
 		skills: ["Nodejs, Express, MySQL"],
+		github: "https://github.com/Preshy-Jones/AJAX-TODO-LIST",
 	},
 ];
 // Contact form text, and Jotforms link
