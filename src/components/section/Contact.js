@@ -1,5 +1,5 @@
 import React from 'react'
-import { contact, section5Title, social } from '../../profile'
+import { contact, section6Title, social } from '../../profile'
 
 const Contact = () => {
     
@@ -8,7 +8,7 @@ const Contact = () => {
                 <div data-aos="zoom-in-up" data-aos-once="true" className="git-form">
                     <>
                 <div className="git-head-div text-center mx-auto">
-                        <h1 id="Contact" className="git-head">{section5Title}</h1>
+                        <h1 id="Contact" className="git-head">{section6Title}</h1>
                 </div>
                 </>
                 <div className="container">
