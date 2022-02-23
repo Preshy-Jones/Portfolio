@@ -5,27 +5,32 @@
 
 /* Projects Photo */
 .project1 {
-    background-image: url('images/burjtech.png');
+    background-image: url('images/spendyvest.png');
     cursor: none;
 }
 
 .project2 {
-    background-image: url('images/siscertifications.png');
+    background-image: url('images/burjtech.png');
     cursor: none;
 }
 
 .project3 {
+    background-image: url('images/siscertifications.png');
+    cursor: none;
+}
+
+.project4 {
     background-image: url('images/artscope.png');
 
     cursor: none;
 }
 
-.project4 {
+.project5 {
     background-image: url('images/dog.png');
     cursor: none;
 }
 
-.project5 {
+.project6 {
     background-image: url('images/anime.png');
     cursor: none;
 }

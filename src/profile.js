@@ -114,14 +114,22 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
+    name: "SpendyVest",
+    skills: ["Tailwindcss, React, Framer motion"],
+    github: "https://github.com/Preshy-Jones/Burjtech-React",
+    url: "https://github.com/Preshy-Jones/Spendy-Vest",
+  },
+  {
+    // Add image in './styles/images.css' in #project1
+    id: "project2",
     name: "Burjtech.org",
-    skills: ["HTML, CSS, JS, Node JS"],
+    skills: ["HTML, CSS, React, Node JS"],
     url: "https://burjtech.herokuapp.com/",
-    github: "https://github.com/Preshy-Jones/BURJTECH-LTD",
+    github: "https://github.com/Preshy-Jones/Burjtech-React",
   },
   {
     // Add image in './styles/images.css' in #project2
-    id: "project2",
+    id: "project3",
     name: "Sis Certifications Nigeria",
     skills: ["HTML, CSS, JS, React, Node JS"],
     url: "https://preshy-jones.github.io/CisCertifications/#/",
@@ -129,7 +137,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project3
-    id: "project3",
+    id: "project4",
     name: "Art Scope",
     skills: ["HTML, CSS"],
     url: "https://preshy-jones.github.io/Art-Scope/",
@@ -137,7 +145,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project4
-    id: "project4",
+    id: "project5",
     name: "Dog Website",
     skills: ["HTML, CSS, JS"],
     url: "https://preshy-jones.github.io/DOG/",
@@ -145,7 +153,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project5
-    id: "project5",
+    id: "project6",
     name: "Anime Gallery Touch slider",
     skills: ["HTML, CSS, JS"],
     url: "https://animegallery.herokuapp.com/",
