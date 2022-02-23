@@ -116,7 +116,7 @@ const projects = [
     id: "project1",
     name: "Burjtech.org",
     skills: ["HTML, CSS, JS, Node JS"],
-    url: "http://burjtech.org",
+    url: "https://burjtech.herokuapp.com/",
     github: "https://github.com/Preshy-Jones/BURJTECH-LTD",
   },
   {
