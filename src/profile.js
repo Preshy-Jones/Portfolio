@@ -116,8 +116,8 @@ const projects = [
     id: "project1",
     name: "SpendyVest",
     skills: ["Tailwindcss, React, Framer motion"],
-    github: "https://github.com/Preshy-Jones/Burjtech-React",
-    url: "https://github.com/Preshy-Jones/Spendy-Vest",
+    github: "https://github.com/Preshy-Jones/Spendy-Vest",
+    url: "https://spendyvest.vercel.app/",
   },
   {
     // Add image in './styles/images.css' in #project1
