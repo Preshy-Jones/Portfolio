@@ -192,7 +192,7 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "URL Shortener",
-    url: "https://preshyurlshortener.herokuapp.com/shorten",
+    url: "https://pjurlshortener.herokuapp.com",
     skills: ["Nodejs, Express, Mongodb"],
     github: "https://github.com/Preshy-Jones/Url-Shortener",
   },
