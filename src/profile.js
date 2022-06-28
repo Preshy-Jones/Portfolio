@@ -120,8 +120,15 @@ const projects = [
     url: "https://spendyvest.vercel.app/",
   },
   {
-    // Add image in './styles/images.css' in #project1
     id: "project2",
+    name: "Real Estate App",
+    skills: ["NEXTJS, Chakra UI,Typescript, Rapid Api,"],
+    url: "https://real-estate-app-six-phi.vercel.app/",
+    github: "https://github.com/Preshy-Jones/Real-estate-app",
+  },
+  {
+    // Add image in './styles/images.css' in #project1
+    id: "project3",
     name: "Burjtech.org",
     skills: ["HTML, CSS, React, Node JS"],
     url: "https://burjtech.herokuapp.com/",
@@ -129,7 +136,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project2
-    id: "project3",
+    id: "project4",
     name: "Sis Certifications Nigeria",
     skills: ["HTML, CSS, JS, React, Node JS"],
     url: "https://preshy-jones.github.io/CisCertifications/#/",
@@ -137,7 +144,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project3
-    id: "project4",
+    id: "project5",
     name: "Art Scope",
     skills: ["HTML, CSS"],
     url: "https://preshy-jones.github.io/Art-Scope/",
@@ -145,7 +152,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project4
-    id: "project5",
+    id: "project6",
     name: "Dog Website",
     skills: ["HTML, CSS, JS"],
     url: "https://preshy-jones.github.io/DOG/",
@@ -153,7 +160,7 @@ const projects = [
   },
   {
     // Add image in './styles/images.css' in #project5
-    id: "project6",
+    id: "project7",
     name: "Anime Gallery Touch slider",
     skills: ["HTML, CSS, JS"],
     url: "https://animegallery.herokuapp.com/",
