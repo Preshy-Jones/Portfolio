@@ -158,14 +158,14 @@ const projects = [
     url: "https://preshy-jones.github.io/DOG/",
     github: "https://github.com/Preshy-Jones/DOG",
   },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project7",
-    name: "Anime Gallery Touch slider",
-    skills: ["HTML, CSS, JS"],
-    url: "https://animegallery.herokuapp.com/",
-    github: "https://github.com/Preshy-Jones/Animepedia",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #project5
+  //   id: "project7",
+  //   name: "Anime Gallery Touch slider",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://animegallery.herokuapp.com/",
+  //   github: "https://github.com/Preshy-Jones/Animepedia",
+  // },
   // {
   //   // Add image in './styles/images.css' in #project6
   //   id: "project6",
