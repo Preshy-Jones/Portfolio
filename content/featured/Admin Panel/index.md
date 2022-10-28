@@ -12,4 +12,4 @@ tech:
   - Vercel
 ---
 
-An admin dashboard consuming users data from mock Api. Features include pagination, and search.
+An admin dashboard consuming a mock Api and displaying users data. Features include pagination, and search.
