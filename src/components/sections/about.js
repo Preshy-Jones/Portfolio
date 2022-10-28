@@ -125,7 +125,22 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'TypeScript/JavaScript',
+    'React',
+    'NEXTJS',
+    'Tailwind',
+    'Chakra Ui',
+    'SASS',
+    'Node.js',
+    'Mongodb',
+    'mysql',
+    'PHP',
+    'Laravel',
+    'Livewire',
+    'Alpinejs',
+    'Solidity',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,13 +150,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              A Software Developer who loves to transform ideas into reality using code. I am
+              skilled in creating responsive web applications with Html, css and front end
+              frameworks such as React. I am also skilled in creating high performance APIs with
+              back end technologies such as with nodejs and laravel, and with Databases such as
+              Mysql and Mongo DB. My passion for programming drives me to get better at better at
+              delivering quality services
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -150,18 +167,18 @@ const About = () => {
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
               clients.
-            </p>
+            </p> */}
 
-            <p>
+            {/* <p>
               I also recently{' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
                 launched a course
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are the technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">

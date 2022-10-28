@@ -158,6 +158,7 @@ const Nav = ({ isHome }) => {
   const fadeClass = isHome ? 'fade' : '';
   const fadeDownClass = isHome ? 'fadedown' : '';
 
+  // eslint-disable-next-line no-unused-vars
   const Logo = (
     <div className="logo" tabIndex="-1">
       {isHome ? (
@@ -173,7 +174,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://drive.google.com/file/d/1lBSJQnZSdj0g7EXUer76QuZ6fGxjTXZv/view?usp=sharing"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
@@ -183,7 +188,7 @@ const Nav = ({ isHome }) => {
       <StyledNav>
         {prefersReducedMotion ? (
           <>
-            {Logo}
+            {/* {Logo} */}
 
             <StyledLinks>
               <ol>
@@ -201,13 +206,13 @@ const Nav = ({ isHome }) => {
           </>
         ) : (
           <>
-            <TransitionGroup component={null}>
+            {/* <TransitionGroup component={null}>
               {isMounted && (
                 <CSSTransition classNames={fadeClass} timeout={timeout}>
                   <>{Logo}</>
                 </CSSTransition>
               )}
-            </TransitionGroup>
+            </TransitionGroup> */}
 
             <StyledLinks>
               <ol>
