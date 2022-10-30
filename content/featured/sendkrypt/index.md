@@ -1,9 +1,9 @@
 ---
 date: '2'
-title: 'Real estate App'
+title: 'SendKrypt'
 cover: './sendkrypt.png'
-github: 'https://github.com/Preshy-Jones/Real-estate-app'
-external: 'https://real-estate-app-six-phi.vercel.app/'
+github: 'https://github.com/Preshy-Jones/SendKrypt'
+external: 'https://sendkrypt.vercel.app/'
 tech:
   - NEXTJS
   - Chakra ui
