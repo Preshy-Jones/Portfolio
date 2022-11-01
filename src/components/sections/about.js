@@ -133,6 +133,7 @@ const About = () => {
     'Chakra Ui',
     'SASS',
     'Node.js',
+    'Nestjs',
     'Mongodb',
     'mysql',
     'PHP',
