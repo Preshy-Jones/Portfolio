@@ -3,7 +3,8 @@ import { Helmet } from 'react-helmet';
 import PropTypes from 'prop-types';
 import anime from 'animejs';
 import styled from 'styled-components';
-import { IconLoader } from '@components/icons';
+// import { IconLoader } from '@components/icons';
+import ClimbingBoxLoader from 'react-spinners/ClimbingBoxLoader';
 
 const StyledLoader = styled.div`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -86,7 +87,12 @@ const Loader = ({ finishLoading }) => {
       <Helmet bodyAttributes={{ class: `hidden` }} />
 
       <div className="logo-wrapper">
-        <IconLoader />
+        <ClimbingBoxLoader
+          color="#64ffda"
+          size={15}
+          aria-label="Loading Spinner"
+          data-testid="loader"
+        />
       </div>
     </StyledLoader>
   );
