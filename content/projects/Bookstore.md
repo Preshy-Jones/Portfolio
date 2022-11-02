@@ -9,7 +9,7 @@ tech:
   - ejs templating engine
   - MongoDB
   - Passportjs
-showInProjects: false
+showInProjects: true
 company: ''
 ---
 

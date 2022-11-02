@@ -9,7 +9,7 @@ tech:
   - Sequelize orm
   - MySQL
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A nodejs REST api built with express and sequelize orm for a coding gigs app. Users can create gigs and search for gigs, other features include pagination and jwt authentication
