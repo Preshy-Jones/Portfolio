@@ -2,7 +2,7 @@
 date: '2'
 title: 'Admin Panel'
 cover: './admindashboard.png'
-github: 'https://github.com/Preshy-Jones/lendsqr-fe-test'
+github: 'https://github.com/Preshy-Jones/Admin-Panel'
 external: 'https://adedibuprecious-lendsqr-fe-test.vercel.app/'
 tech:
   - React
