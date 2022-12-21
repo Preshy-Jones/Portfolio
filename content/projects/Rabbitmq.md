@@ -2,7 +2,6 @@
 date: '2021-07-01'
 title: 'Rabbitmq Microservice implementation'
 github: 'https://github.com/Preshy-Jones/bodsquare-test'
-external: 'https://preshy-jones.github.io/CisCertifications/#/'
 tech:
   - Node.js
   - Express
