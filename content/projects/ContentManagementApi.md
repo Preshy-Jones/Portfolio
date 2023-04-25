@@ -1,6 +1,7 @@
 ---
-date: '2017-12-01'
-title: 'Mini fintech Api'
+date: '2021-12-01'
+title: 'Wallet Application'
+github: 'https://github.com/Preshy-Jones/Skyewallet-api'
 github: 'https://github.com/Preshy-Jones/Skyewallet-api'
 external: 'https://github.com/Preshy-Jones/Skyewallet-front-end'
 tech:
@@ -12,4 +13,4 @@ company: 'Apple'
 showInProjects: true
 ---
 
-A backend assessment test I did for a company, built with Nestjs and Reactjs. The app is a mini fintech app that allows users to create accounts, send and receive money to other users from their wallets, and view and download their transaction history. The backend api is built with Nestjs and mongodb and a simple frontend is built with Reactjs and Tailwindcss.
+A fintech wallet wallet application built with Nestjs and Reactjs. The applications allows users to create accounts, send and receive money to other users from their wallets, and view and download their transaction history. The backend api is built with Nestjs and mongodb and a simple frontend is built with Reactjs and Tailwindcss.
