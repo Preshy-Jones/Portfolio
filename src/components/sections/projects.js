@@ -181,6 +181,7 @@ const Projects = () => {
               title
               tech
               github
+              github2
               external
             }
             html
@@ -213,7 +214,7 @@ const Projects = () => {
 
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech } = frontmatter;
+    const { github, github2, external, title, tech } = frontmatter;
 
     return (
       <div className="project-inner">
@@ -225,6 +226,11 @@ const Projects = () => {
             <div className="project-links">
               {github && (
                 <a href={github} aria-label="GitHub Link" target="_blank" rel="noreferrer">
+                  <Icon name="GitHub" />
+                </a>
+              )}
+              {github2 && (
+                <a href={github2} aria-label="GitHub Link" target="_blank" rel="noreferrer">
                   <Icon name="GitHub" />
                 </a>
               )}
