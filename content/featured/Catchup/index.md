@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Catchup'
 cover: './catchup.png'
 github: 'https://github.com/workshopapps/dinnerwithfriends.api'
