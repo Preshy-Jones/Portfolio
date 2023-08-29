@@ -269,7 +269,7 @@ const Menu = () => {
             <a
               href="https://drive.google.com/file/d/1wRRocIkLWX1MPrNqk-dY9sG1qk10CHFH/view?usp=sharing"
               className="resume-link">
-              Resumet
+              Resume
             </a>
           </nav>
         </StyledSidebar>
