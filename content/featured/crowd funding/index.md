@@ -1,8 +1,8 @@
 ---
 date: '2'
-title: 'Crowd funcding application'
+title: 'Crowd funding application'
 cover: './crowd-funding.png'
-external: 'https://spendyvest.vercel.app/'
+external: 'https://invest.skyewallet.com'
 tech:
   - React
   - Tailwindcss
