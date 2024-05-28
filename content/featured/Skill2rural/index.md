@@ -4,7 +4,7 @@ title: 'Skill2rural'
 cover: './skill2rural.png'
 github: 'https://github.com/Preshy-Jones/skill2Rural-web'
 github2: 'https://github.com/Preshy-Jones/skill2rural-server'
-external: 'http://ec2-13-60-21-61.eu-north-1.compute.amazonaws.com'
+external: 'http://skill2rural.org'
 tech:
   - Next.js 14
   - Tailwindcss
