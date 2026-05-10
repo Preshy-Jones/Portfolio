@@ -126,6 +126,8 @@ const About = () => {
   }, []);
 
   const skills = [
+    "Java",
+    "Spring Boot",
     'TypeScript/JavaScript',
     'React',
     'NEXTJS',
