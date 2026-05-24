@@ -1,7 +1,6 @@
 ---
-date: '3'
+date: '2022-03-01'
 title: 'Catchup'
-cover: './catchup.png'
 github: 'https://github.com/workshopapps/dinnerwithfriends.api'
 external: 'https://catchup.rsvp'
 tech:
@@ -9,6 +8,8 @@ tech:
   - Express
   - Typescript
   - Mongodb
+showInProjects: true
+company: ''
 ---
 
 Worked as a backend developer in a team to build a unique event management platform. Features include creating events, sending invites, and managing RSVPs.
