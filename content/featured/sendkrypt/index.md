@@ -5,11 +5,11 @@ cover: './sendkrypt.png'
 github: 'https://github.com/Preshy-Jones/SendKrypt'
 external: 'https://sendkrypt.vercel.app/'
 tech:
-  - NEXTJS
-  - Chakra ui
-  - Typescript
-  - Rapid API
-  - Vercel
+  - Java
+  - Spring Boot
+  - Redis
+  - Web3j
+  - PostgreSQL
 ---
 
-A web3 dapp that enables users to send ethereum from one wallet to another. Users after connecting their wallet can input the recipient address, amount, a message and a Keyword. The keyword is used to query a giphy api to return a gif image matching the keyword. The user can then send the transaction to the recipient address. The recipient can then view the message and gif image sent to them.
+A highly reliable backend integration for a Web3 dapp. I engineered the backend APIs to handle secure transaction processing, utilizing Java and Spring Boot. I integrated with Web3 APIs and managed a reliable caching layer with Redis to ensure low latency. The system reliably queries external APIs and orchestrates secure data flows for the client application to consume.

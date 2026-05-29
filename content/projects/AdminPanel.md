@@ -4,13 +4,13 @@ title: 'Admin Panel'
 github: 'https://github.com/Preshy-Jones/Admin-Panel'
 external: 'https://adedibuprecious-lendsqr-fe-test.vercel.app/'
 tech:
-  - React
-  - Typescript
-  - Sass
-  - Context API
-  - Vercel
+  - Java
+  - Spring Boot
+  - MySQL
+  - Redis
+  - REST APIs
 showInProjects: true
 company: ''
 ---
 
-An admin dashboard consuming a mock Api and displaying users data. Features include pagination, and search.
+A robust backend API serving user data to an admin dashboard. Features include complex database queries, pagination, and fast search capabilities built with Java and Spring Boot.

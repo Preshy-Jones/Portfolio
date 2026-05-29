@@ -5,9 +5,9 @@ cover: './spendyvest.png'
 github: 'https://github.com/Preshy-Jones/Spendy-Vest'
 external: 'https://spendyvest.vercel.app/'
 tech:
-  - React
-  - Tailwindcss
-  - Framer motion
+  - Java
+  - Spring Boot
+  - MySQL
 ---
 
-A simple landing page with about, faq and contact pages.
+Developed the core backend APIs for the SpendyVest platform, focusing on robust transaction processing and data integrity using Java and Spring Boot.

@@ -4,12 +4,12 @@ title: 'Wallet Application'
 github: 'https://github.com/Preshy-Jones/Skyewallet-api'
 github2: 'https://github.com/Preshy-Jones/Skyewallet-front-end'
 tech:
-  - Nest.js
-  - Mongodb
-  - React
-  - Tailwind
+  - Spring Boot
+  - Java
+  - PostgreSQL
+  - Microservices
 company: 'Apple'
 showInProjects: true
 ---
 
-A fintech wallet application built with Nestjs and Reactjs. The applications allows users to create accounts, send and receive money to other users from their wallets, and view and download their transaction history. The backend api is built with Nestjs and mongodb and a simple frontend is built with Reactjs and Tailwindcss.
+A fintech wallet backend built with Java and Spring Boot. The applications allows users to create accounts, send and receive money, and view transaction history. The robust backend API relies on PostgreSQL for transaction consistency, utilizing state machines and idempotency concepts for critical transaction flows.

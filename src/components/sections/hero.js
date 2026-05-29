@@ -64,8 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm Precious, a Full Stack Software Developer. I love to transform ideas into reality using
-        code and building exquisite and highly performant applications.
+        I'm Precious, a Senior Java Software Engineer. I love to transform complex business requirements into highly performant, scalable, and reliable backend systems using Java and Spring Boot.
       </p>
     </>
   );

@@ -4,10 +4,11 @@ title: 'Siscertifications'
 github: 'https://github.com/Preshy-Jones/CisCertifications'
 external: 'https://preshy-jones.github.io/CisCertifications/#/'
 tech:
-  - React.js
-  - Css
+  - Java
+  - Spring Boot
+  - MySQL
 company: ''
 showInProjects: true
 ---
 
-A fully responsive company website built with react, React router and css.
+Developed backend REST APIs for a company platform using Java and Spring Boot, focusing on reliable data access and scalable architecture.

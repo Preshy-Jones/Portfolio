@@ -4,9 +4,9 @@ title: 'Skyewallet'
 cover: './skyewallet.png'
 external: 'https://www.skyewallet.com/'
 tech:
-  - React
-  - Nextjs
-  - Tailwindcss
+  - Java
+  - Spring Boot
+  - PostgreSQL
 ---
 
-A landing page built with Nextjs, Tailwindcss showcasing the features of the Skyewallet app.
+Engineered the core backend API integrations for the Skyewallet app, building reliable endpoints and transaction processing systems using Java and Spring Boot.

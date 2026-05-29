@@ -128,21 +128,18 @@ const About = () => {
   const skills = [
     "Java",
     "Spring Boot",
-    'TypeScript/JavaScript',
-    'React',
-    'NEXTJS',
-    'Tailwind',
-    'Chakra Ui',
-    'SASS',
-    'Node.js',
-    'Nestjs',
-    'Mongodb',
-    'mysql',
-    'PHP',
-    'Laravel',
-    'Livewire',
-    'Alpinejs',
-    'Solidity',
+    "Kafka",
+    "PostgreSQL",
+    "MySQL",
+    "Hibernate",
+    "JPA",
+    "Docker",
+    "Kubernetes",
+    "REST APIs",
+    "Microservices",
+    "AWS",
+    "Redis",
+    "System Design"
   ];
 
   return (
@@ -153,12 +150,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              A Software Developer who loves to transform ideas into reality using code. I am
-              skilled in creating responsive web applications with Html, css and front end
-              frameworks such as React. I am also skilled in creating high performance APIs with
-              back end technologies such as with nodejs and laravel, and with Databases such as
-              Mysql and Mongo DB. My passion for programming drives me to get better at better at
-              delivering quality services
+              A Senior Java Software Engineer who loves to transform complex problems into highly performant, 
+              scalable backend solutions. I am skilled in designing and building core backend systems, APIs, 
+              and robust integrations using Java and Spring Boot. I thrive in transaction-heavy environments, 
+              focusing on idempotency, reliability, and code quality. My passion for software engineering drives 
+              me to continually improve system stability, tackle complex debugging challenges, and deliver real 
+              value for customers.
             </p>
 
             {/* <p>

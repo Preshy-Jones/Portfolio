@@ -1,13 +1,13 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
+title: 'Backend Software Engineer'
 company: 'Apple'
 location: 'Cupertino, CA'
 range: 'July - December 2017'
 url: 'https://www.apple.com/music/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Developed and maintained highly reliable backend services for Apple Music using Java and Spring Boot
+- Architected and implemented core transaction flows and API integrations, improving system reliability and performance
+- Built and shipped robust background jobs and database designs for music data ingestion and processing
+- Methodically debugged complex transaction-heavy flows, reducing manual escalations and improving test coverage across critical integrations

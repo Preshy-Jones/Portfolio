@@ -4,11 +4,9 @@ title: 'Crowd funding application'
 cover: './crowd-funding.png'
 external: 'https://invest.skyewallet.com'
 tech:
-  - React
-  - Tailwindcss
-  - Framer motion
+  - Java
+  - Spring Boot
+  - PostgreSQL
 ---
 
-A landing page built with Nextjs, Tailwindcss and Framer motion.
-
-
+A highly reliable backend API for a crowd funding application, built with Java, Spring Boot, and PostgreSQL, focusing on secure transaction state management.

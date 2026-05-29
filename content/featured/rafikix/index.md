@@ -9,11 +9,9 @@ tech:
   - Spring Boot
   - Java
   - PostgreSQL
-  - Nextjs
-  - TypeScript
   - AWS Bedrock
   - AWS Transcribe
 
 ---
 
-An AI-powered career development platform built for Skill2Rural. I built the full backend using Spring Boot and PostgreSQL, and the frontend with SvelteKit and TypeScript. The platform features an AI chat assistant powered by AWS Bedrock, voice conversations with AWS Transcribe for speech-to-text and AWS Polly for text-to-speech, resume upload and parsing, AI-generated career paths, learning paths, and career story generation. I implemented JWT authentication with refresh tokens and Google Sign In, a document RAG pipeline, guest chat support, and a geo-aware subscription system with Paystack for Nigerian users and Polar for global users, including webhook handlers for both providers.
+An AI-powered career development API platform. I built the highly reliable backend architecture using Spring Boot and PostgreSQL, handling mission-critical APIs and deep integrations. The backend orchestrates an AI chat assistant powered by AWS Bedrock, voice processing flows utilizing AWS Transcribe for speech-to-text, and sophisticated resume parsing algorithms. I implemented robust JWT authentication, a document RAG pipeline, and a geo-aware subscription engine processing payments via Paystack for Nigerian users and Polar for global users. The system handles webhooks with strict idempotency and graceful failure recovery mechanisms.
