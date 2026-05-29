@@ -1,14 +1,13 @@
 ---
 date: '3'
 title: 'Bandready'
-cover: './bandready.png'
+cover: './Bandready.png'
 external: 'https://www.bandready.app'
 tech: 
-  - NestJS
-  - Next.js
-  - TypeScript
+  - Java
+  - Spring Boot
   - PostgreSQL
-  - Prisma
+  - Hibernate
   - Paddle
   - Paystack
   - OpenAI
@@ -22,7 +21,7 @@ tech:
   dimensions, as well as writing assessment, reading comprehension, and targeted
   vocabulary drills.
 
-  As a backend developer on the team, I built and integrated the multi-provider
+  As a Senior Java Software Engineer on the team, I built and integrated the multi-provider
   payment system supporting Paddle subscriptions for global users and Paystack
   credit packs for Nigerian users — including webhook handling, subscription
   lifecycle management, and geo-based plan routing. I also developed the admin
