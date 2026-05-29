@@ -4,13 +4,11 @@ title: 'Bookstore'
 github: 'https://github.com/Preshy-Jones/Bookstore'
 external: 'https://preshyjonesbooks.herokuapp.com/'
 tech:
-  - Nodejs
-  - Express
-  - ejs templating engine
-  - MongoDB
-  - Passportjs
+  - Java
+  - Spring Boot
+  - PostgreSQL
 showInProjects: true
 company: ''
 ---
 
-A bookstore rest api with image upload and authentication, users can create authors and upload book covers attributing the books to the authors they create.com. Users can also search for books within speicified publishing dates.
+A bookstore REST API with file upload and authentication. Users can create authors and upload book covers, attributing the books to the authors they create. Users can also search for books within specified publishing dates using complex PostgreSQL queries.

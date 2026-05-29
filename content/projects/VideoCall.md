@@ -4,12 +4,12 @@ title: 'Mini Video call app'
 github: 'https://github.com/Preshy-Jones/Video-call-app'
 external: ''
 tech:
-  - Nodejs
-  - Express
-  - Peerjs
-  - socket.io
+  - Java
+  - Spring Boot
+  - WebRTC
+  - WebSockets
 company: ''
 showInProjects: true
 ---
 
-A video call app built with nodejs, express, peerjs and socket.io. Users can create a room and invite other users to join the room and have a video call.
+A video call signaling backend built with Java, Spring Boot, and WebSockets. Users can create a room and invite other users to join the room and have a video call securely.
