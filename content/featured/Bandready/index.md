@@ -14,17 +14,6 @@ tech:
   - Redis
 ---
 
+  An AI-powered IELTS preparation platform offering real-time scoring, assessments, and targeted drills to help students achieve their target band scores.
 
-  BandReady is an AI-powered IELTS preparation platform designed to help students
-  achieve their target band scores. The platform offers speaking practice with
-  real-time AI scoring across fluency, grammar, lexical resource, and pronunciation
-  dimensions, as well as writing assessment, reading comprehension, and targeted
-  vocabulary drills.
-
-  As a Senior Java Software Engineer on the team, I built and integrated the multi-provider
-  payment system supporting Paddle subscriptions for global users and Paystack
-  credit packs for Nigerian users — including webhook handling, subscription
-  lifecycle management, and geo-based plan routing. I also developed the admin
-  dashboard APIs for user management, revenue analytics, and subscription
-  controls, and worked on the authentication system, background job queues for
-  async AI assessments, and scheduled tasks for subscription expiry.
+  As a Senior Java Software Engineer, I architected the core backend services, including a robust multi-provider payment system using Paddle and Paystack with geo-based routing and secure webhook handling. I also built the admin dashboard APIs, authentication flows, and scheduled background jobs to process asynchronous AI assessments efficiently.

@@ -14,10 +14,6 @@ tech:
   - Flyway
 ---
 
-A cryptocurrency-to-fiat exchange where users deposit Bitcoin, Ethereum, BSC, Polygon, Tron, or Solana and receive Nigerian Naira or USD payouts via bank transfer. As the Lead Backend Engineer, I built the Spring Boot backend handling user onboarding, KYC verification, crypto wallet management, transaction processing, fiat settlement, and notification delivery.
+A cryptocurrency-to-fiat exchange providing users with instant fiat payouts. As the Lead Backend Engineer, I built the robust Spring Boot architecture handling KYC, crypto wallets, transaction processing, and fiat settlements.
 
-To ensure strict financial correctness, I implemented idempotent payment webhook processing with a PostgreSQL unique constraint deduplication table, verifying provider events before any financial mutation. I achieved atomic wallet balance updates inside Spring `@Transactional` contexts using row-level locking, and designed an append-only transaction ledger with Hibernate and Flyway-managed schema for complete auditability.
-
-I engineered robust background processing using RabbitMQ and Redis. This includes asynchronous workers polling blockchain APIs for deposit detection, fiat settlement processing, and KYC document handling with multi-provider failover between SmileID and Dojah. I also automated scheduled reconciliation jobs to detect discrepancies between internal records and Paystack/Monnify provider statements.
-
-For event-driven processing, I utilized AWS SQS for async payment event handling between services with idempotent consumers and dead-letter queue monitoring. I implemented the Outbox pattern on all cross-service event publications, guaranteeing reliable event delivery and ensuring no events are lost during service restarts.
+I ensured strict financial correctness using atomic wallet updates with Spring `@Transactional`, PostgreSQL deduplication for webhooks, and an append-only ledger via Hibernate. Additionally, I engineered a highly scalable event-driven system leveraging RabbitMQ, AWS SQS, and the Outbox pattern for asynchronous background jobs, KYC failovers, and reliable payment event processing.
