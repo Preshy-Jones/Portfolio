@@ -4,16 +4,13 @@ title: 'SwapXNext'
 cover: './swapxnext.png'
 external: 'https://swapxnext.com/'
 tech:
-  - Java
-  - Spring Boot
-  - PostgreSQL
-  - Hibernate
-  - RabbitMQ
-  - Redis
-  - AWS SQS
-  - Flyway
+  - React
+  - Next.js
+  - WebSockets
+  - Tailwind CSS
+  - SWR
 ---
 
-A cryptocurrency-to-fiat exchange providing users with instant fiat payouts. As the Lead Backend Engineer, I built the robust Spring Boot architecture handling KYC, crypto wallets, transaction processing, and fiat settlements.
+A cryptocurrency-to-fiat exchange providing users with instant fiat payouts. As the Lead Frontend Engineer, I built the robust Next.js application architecture handling complex UI states for KYC, crypto wallets, and real-time transaction processing.
 
-I ensured strict financial correctness using atomic wallet updates with Spring `@Transactional`, PostgreSQL deduplication for webhooks, and an append-only ledger via Hibernate. Additionally, I engineered a highly scalable event-driven system leveraging RabbitMQ, AWS SQS, and the Outbox pattern for asynchronous background jobs, KYC failovers, and reliable payment event processing.
+I ensured a flawless user experience using optimistic UI updates, integrated real-time WebSocket data for live exchange rates, and engineered a highly scalable component system that ensures fast load times and reliable payment processing feedback.

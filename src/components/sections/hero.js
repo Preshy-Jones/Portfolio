@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm Precious, a Senior Java Software Engineer. I love to transform complex business requirements into highly performant, scalable, and reliable backend systems using Java and Spring Boot.
+        I'm Precious, a ReactJS Frontend Developer. I love to build accessible, interactive, and beautifully designed web applications using ReactJS, Next.js, and modern styling tools like Tailwind CSS and Material UI.
       </p>
     </>
   );

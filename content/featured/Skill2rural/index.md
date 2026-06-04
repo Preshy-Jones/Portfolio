@@ -6,14 +6,11 @@ github: 'https://github.com/Preshy-Jones/skill2Rural-web'
 github2: 'https://github.com/Preshy-Jones/skill2rural-server'
 external: 'https://skill2rural.org'
 tech:
-  - Java
-  - Spring Boot
-  - Hibernate
-  - PostgreSQL
-  - AWS CloudFront
-  - AWS S3
-  - AWS EC2
-  - AWS RDS
+  - React
+  - Redux
+  - Styled Components
+  - Material UI
+  - Axios
 ---
 
-A dynamic online learning platform where I engineered the core backend architecture using Java and Spring Boot. I developed highly scalable REST APIs handling course delivery, user progress tracking, and secure video streaming integrations via AWS S3 and CloudFront, backed by a reliable PostgreSQL database on AWS RDS.
+A dynamic online learning platform where I engineered the core frontend architecture using React and Redux. I developed highly scalable interactive components handling course delivery, user progress tracking, and seamless video streaming UI, ensuring a responsive and accessible user experience across all devices.

@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Precious Adedibu',
     description:
-      'Precious Adedibu is a full stack developer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Precious Adedibu is a ReactJS Frontend Developer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://adedibu.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@preshy_jones',

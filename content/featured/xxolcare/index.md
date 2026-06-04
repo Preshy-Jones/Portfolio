@@ -4,12 +4,11 @@ title: 'XXOLCARE'
 cover: './xxolcare.png'
 external: 'https://xxolcare.com/'
 tech:
-  - Java
-  - Spring Boot
-  - MySQL
-  - Redis
-  - Paystack API
-  - Kafka
+  - React
+  - Next.js
+  - Tailwind CSS
+  - Context API
+  - SWR
 ---
 
-A robust backend architecture for a home service booking system built with Java, Spring Boot, MySQL, and Redis. I engineered a reliable transaction-heavy API that manages complex booking states, handles job assignments, and provides an admin interface through secure REST endpoints. I integrated a payment system using Paystack to process payments, incorporating robust webhook handlers with idempotency, and employed Redis for distributed caching and session management to optimize performance.
+A responsive frontend architecture for a home service booking system built with React and Next.js. I engineered an intuitive user interface that manages complex booking states, handles job assignments, and provides an admin dashboard through secure, dynamic components. I integrated a payment UI using Paystack and employed SWR for efficient client-side data fetching and caching to optimize frontend performance.

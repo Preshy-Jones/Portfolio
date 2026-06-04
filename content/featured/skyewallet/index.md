@@ -4,9 +4,10 @@ title: 'Skyewallet'
 cover: './skyewallet.png'
 external: 'https://www.skyewallet.com/'
 tech:
-  - Java
-  - Spring Boot
-  - PostgreSQL
+  - React Native
+  - React
+  - Redux Toolkit
+  - Styled Components
 ---
 
-Engineered the core backend API integrations for the Skyewallet app, building reliable endpoints and transaction processing systems using Java and Spring Boot.
+Engineered the core frontend application for Skyewallet, building reliable user interfaces and complex transaction processing flows using React and Redux Toolkit, delivering a seamless cross-platform experience.

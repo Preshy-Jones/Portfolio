@@ -126,20 +126,18 @@ const About = () => {
   }, []);
 
   const skills = [
-    "Java",
-    "Spring Boot",
-    "Kafka",
-    "PostgreSQL",
-    "MySQL",
-    "Hibernate",
-    "JPA",
-    "Docker",
-    "Kubernetes",
+    "ReactJS",
+    "Next.js",
+    "TypeScript",
+    "JavaScript (ES6+)",
+    "Tailwind CSS",
+    "Material UI",
+    "Redux",
+    "HTML & CSS",
+    "GraphQL",
     "REST APIs",
-    "Microservices",
-    "AWS",
-    "Redis",
-    "System Design"
+    "Figma",
+    "Responsive Design"
   ];
 
   return (
@@ -150,12 +148,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              A Senior Java Software Engineer who loves to transform complex problems into highly performant, 
-              scalable backend solutions. I am skilled in designing and building core backend systems, APIs, 
-              and robust integrations using Java and Spring Boot. I thrive in transaction-heavy environments, 
-              focusing on idempotency, reliability, and code quality. My passion for software engineering drives 
-              me to continually improve system stability, tackle complex debugging challenges, and deliver real 
-              value for customers.
+              A ReactJS Frontend Developer who loves to transform complex requirements into beautiful, 
+              interactive, and highly performant user interfaces. I am skilled in designing and building scalable 
+              frontend architectures using ReactJS, Next.js, and modern styling solutions like Tailwind CSS and Material UI. 
+              I thrive in environments where user experience is paramount, focusing on accessibility, responsive design, 
+              and state management. My passion for frontend engineering drives me to continually refine UI/UX, 
+              tackle complex performance optimizations, and deliver intuitive digital products for users.
             </p>
 
             {/* <p>

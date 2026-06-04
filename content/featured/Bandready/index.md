@@ -4,16 +4,15 @@ title: 'Bandready'
 cover: './Bandready.png'
 external: 'https://www.bandready.app'
 tech: 
-  - Java
-  - Spring Boot
-  - PostgreSQL
-  - Hibernate
-  - Paddle
-  - Paystack
-  - OpenAI
-  - Redis
+  - React
+  - Next.js
+  - Tailwind CSS
+  - TypeScript
+  - Material UI
+  - Redux
+  - Stripe
 ---
 
   An AI-powered IELTS preparation platform offering real-time scoring, assessments, and targeted drills to help students achieve their target band scores.
 
-  As a Senior Java Software Engineer, I architected the core backend services, including a robust multi-provider payment system using Paddle and Paystack with geo-based routing and secure webhook handling. I also built the admin dashboard APIs, authentication flows, and scheduled background jobs to process asynchronous AI assessments efficiently.
+  As a Senior Frontend Engineer, I architected the core user interface, including a robust interactive assessment dashboard. I built complex state management flows with Redux, integrated secure payment UIs with Stripe and Paddle, and optimized the application for accessibility and performance.
