@@ -4,12 +4,14 @@ title: 'Catchup'
 github: 'https://github.com/workshopapps/dinnerwithfriends.api'
 external: 'https://catchup.rsvp'
 tech:
+  - Node.js
+  - Express
   - React
   - TypeScript
   - Tailwind CSS
-  - Context API
+  - PostgreSQL
 showInProjects: true
 company: ''
 ---
 
-Worked as a frontend developer in a team to build a unique event management platform using React and TypeScript. Features include interactive event creation forms, responsive dashboard for managing RSVPs, and integration of OAuth authentication flows.
+Worked as a full stack developer in a team to build a unique event management platform using Node.js, React and TypeScript. Features include secure backend APIs for event creation, a responsive dashboard for managing RSVPs, and integration of secure OAuth authentication flows.

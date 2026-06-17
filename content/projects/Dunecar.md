@@ -3,12 +3,13 @@ date: '2022-02-01'
 title: 'Dunecar'
 external: 'https://dunecar-deploy.vercel.app'
 tech:
+  - Node.js
   - React
   - Material UI
   - Redux Toolkit
-  - Framer Motion
+  - MongoDB
 showInProjects: true
 company: ''
 ---
 
-A responsive frontend web application for a car rental system, built with React and Material UI. It features advanced search and filtering components for vehicles, robust state management for booking transactions, and interactive user dashboards with smooth animations.
+A comprehensive full stack web application for a car rental system, built with Node.js and React. It features advanced REST APIs and database filtering for vehicles, robust state management for secure booking transactions, and interactive user dashboards with smooth animations.

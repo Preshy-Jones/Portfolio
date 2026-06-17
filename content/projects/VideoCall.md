@@ -4,12 +4,13 @@ title: 'Mini Video call app'
 github: 'https://github.com/Preshy-Jones/Video-call-app'
 external: ''
 tech:
+  - Node.js
+  - Express
   - React
   - WebRTC
   - WebSockets
-  - Tailwind CSS
 company: ''
 showInProjects: true
 ---
 
-A video call frontend application built with React, WebRTC, and WebSockets. Users can create a room, seamlessly invite other users, and have secure peer-to-peer video calls with a highly responsive and accessible user interface.
+A full stack video call application built with Node.js, React, WebRTC, and WebSockets. I developed robust signaling servers to allow users to create rooms, seamlessly invite other users, and have secure peer-to-peer video calls with a highly responsive user interface.

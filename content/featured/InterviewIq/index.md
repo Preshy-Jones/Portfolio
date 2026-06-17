@@ -4,6 +4,8 @@ title: 'InterviewIq'
 cover: './interviewiq.png'
 external: 'https://www.interviewiq.tech/'
 tech:
+  - Node.js
+  - Express
   - React
   - Next.js
   - Tailwind CSS
@@ -12,4 +14,4 @@ tech:
 
 ---
 
-An AI-powered interview preparation platform built with React, Next.js, and Tailwind CSS. I engineered robust interactive frontend components to process mock interview responses, coordinating external integrations and providing real-time visual feedback. I built a comprehensive frontend architecture handling JWT authentication states, progress tracking dashboards, and the complete interview UI state machine. I also integrated a geo-aware payment UI using Paystack for Nigerian users and Paddle for global users.
+An AI-powered interview preparation platform built with Node.js, React, Next.js, and Tailwind CSS. I engineered robust full stack features to process mock interview responses, coordinating external AI integrations via a Node.js backend and providing real-time visual feedback on the frontend. I built a comprehensive system architecture handling JWT authentication states, secure database schemas, progress tracking dashboards, and the complete interview logic machine. I also integrated a geo-aware payment API using Paystack for Nigerian users and Paddle for global users on the backend.

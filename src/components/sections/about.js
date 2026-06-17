@@ -126,18 +126,18 @@ const About = () => {
   }, []);
 
   const skills = [
-    "ReactJS",
-    "Next.js",
-    "TypeScript",
-    "JavaScript (ES6+)",
+    "Node.js & Express",
+    "MongoDB & PostgreSQL",
+    "ReactJS & Next.js",
+    "TypeScript & JavaScript (ES6+)",
+    "GraphQL & REST APIs",
     "Tailwind CSS",
-    "Material UI",
     "Redux",
     "HTML & CSS",
-    "GraphQL",
-    "REST APIs",
-    "Figma",
-    "Responsive Design"
+    "Git & GitHub",
+    "Docker",
+    "Responsive Design",
+    "Figma"
   ];
 
   return (
@@ -148,12 +148,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              A ReactJS Frontend Developer who loves to transform complex requirements into beautiful, 
-              interactive, and highly performant user interfaces. I am skilled in designing and building scalable 
-              frontend architectures using ReactJS, Next.js, and modern styling solutions like Tailwind CSS and Material UI. 
-              I thrive in environments where user experience is paramount, focusing on accessibility, responsive design, 
-              and state management. My passion for frontend engineering drives me to continually refine UI/UX, 
-              tackle complex performance optimizations, and deliver intuitive digital products for users.
+              A Full Stack Software Engineer who loves to transform complex requirements into beautiful, 
+              interactive frontend interfaces and highly performant backend architectures. I am skilled in designing and building scalable 
+              full stack applications using Node.js, Express, React, Next.js, and modern databases like MongoDB and PostgreSQL. 
+              I thrive in environments where user experience and system reliability are paramount, focusing on secure REST and GraphQL APIs, 
+              responsive design, and robust state management. My passion for full stack engineering drives me to continually tackle complex 
+              performance optimizations and deliver comprehensive end-to-end digital products.
             </p>
 
             {/* <p>

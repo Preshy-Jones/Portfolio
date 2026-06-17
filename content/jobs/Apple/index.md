@@ -1,13 +1,13 @@
 ---
 date: '2017-12-21'
-title: 'Frontend Software Engineer'
+title: 'Full Stack Software Engineer'
 company: 'Apple'
 location: 'Cupertino, CA'
 range: 'July - December 2017'
 url: 'https://www.apple.com/music/'
 ---
 
-- Developed and maintained highly interactive frontend interfaces for Apple Music using React and Next.js
-- Architected and implemented core UI components and API integrations, improving user experience and perceived performance
-- Built and shipped robust state management flows and responsive layouts for complex music data visualization
-- Methodically debugged rendering bottlenecks, reducing component re-renders and improving frontend test coverage across critical user flows
+- Developed and maintained highly interactive frontend interfaces and backend microservices for Apple Music using React, Next.js, and Node.js
+- Architected and implemented core UI components and robust API integrations, improving user experience and system reliability
+- Built and shipped robust state management flows and responsive layouts alongside optimized database queries for complex music data
+- Methodically debugged rendering and API bottlenecks, reducing latency and improving test coverage across critical user flows

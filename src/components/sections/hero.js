@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm Precious, a ReactJS Frontend Developer. I love to build accessible, interactive, and beautifully designed web applications using ReactJS, Next.js, and modern styling tools like Tailwind CSS and Material UI.
+        I'm Precious, a Full Stack Software Engineer. I love to build accessible, interactive web applications and robust backend APIs using Node.js, React, Next.js, and modern tools like Tailwind CSS.
       </p>
     </>
   );
