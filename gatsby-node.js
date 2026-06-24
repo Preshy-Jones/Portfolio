@@ -7,6 +7,17 @@
 const path = require('path');
 const _ = require('lodash');
 
+// Explicitly type the `cover` field as a File so Gatsby doesn't fall back to
+// String when type inference is ambiguous (e.g. on Vercel's Linux file system).
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  createTypes(`
+    type MarkdownRemarkFrontmatter {
+      cover: File @fileByRelativePath
+    }
+  `);
+};
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
   const postTemplate = path.resolve(`src/templates/post.js`);
