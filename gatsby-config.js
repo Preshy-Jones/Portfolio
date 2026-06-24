@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Precious Adedibu',
     description:
-      'Precious Adedibu is a Full Stack Software Engineer who specializes in building exceptional digital experiences with Node.js, React, and Next.js.',
+      'Precious Adedibu is a Senior Software Engineer specializing in Python and AI/LLM integration, building and scaling AI-powered digital products with OpenAI, Claude, React, and Next.js.',
     siteUrl: 'https://adedibu.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@preshy_jones',

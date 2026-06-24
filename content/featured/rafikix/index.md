@@ -6,8 +6,8 @@ github: 'https://github.com/SKILL2RURAL/rafiki-x-server'
 github2: 'https://github.com/SKILL2RURAL/rafiki-x-frontend'
 external: 'https://rafikigen.ai/'
 tech:
-  - Node.js
-  - Express
+  - Python (FastAPI)
+  - Claude API (Anthropic)
   - React
   - TypeScript
   - Next.js
@@ -15,4 +15,4 @@ tech:
 
 ---
 
-An AI-powered career development platform. I built the highly performant full stack architecture using Node.js, React, and Next.js, engineering secure backend APIs for deep AI chat assistant integrations. I implemented robust server-side flows for speech-to-text processing and sophisticated resume parsing algorithms. I also developed a secure JWT authentication service and a seamless, scalable subscription database schema that adapts dynamically for users globally.
+An AI-powered career development platform. I built the Python (FastAPI) backend that integrates the Claude API (Anthropic) for deep AI chat assistant features, engineering server-side flows for speech-to-text processing and intelligent resume parsing. The React/Next.js frontend delivers a seamless, responsive experience while the Python backend orchestrates all LLM API calls, handles JWT authentication, and manages subscription logic for users globally.

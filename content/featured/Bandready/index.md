@@ -4,17 +4,16 @@ title: 'Bandready'
 cover: './Bandready.png'
 external: 'https://www.bandready.app'
 tech: 
-  - Node.js
-  - PostgreSQL
+  - Python (FastAPI)
+  - OpenAI API
   - React
   - Next.js
   - Tailwind CSS
   - TypeScript
-  - Material UI
-  - Redux
+  - PostgreSQL
   - Stripe
 ---
 
   An AI-powered IELTS preparation platform offering real-time scoring, assessments, and targeted drills to help students achieve their target band scores.
 
-  As a Full Stack Engineer, I architected the core platform, including a robust interactive assessment dashboard and highly performant backend APIs. I built complex state management flows with Redux, engineered scalable server logic using Node.js and PostgreSQL, integrated secure server-side payments with Stripe and Paddle, and optimized the application for accessibility and performance across the stack.
+  As a Senior Software Engineer, I built a Python FastAPI backend that integrates the OpenAI API for automated essay scoring and question generation. I engineered scalable database schemas with PostgreSQL, integrated server-side payments with Stripe and Paddle, and developed the React/Next.js frontend assessment dashboard — delivering a complete end-to-end AI-powered product.

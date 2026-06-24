@@ -126,18 +126,18 @@ const About = () => {
   }, []);
 
   const skills = [
-    "Node.js & Express",
-    "MongoDB & PostgreSQL",
+    "Python (FastAPI, Flask)",
+    "LLM APIs (OpenAI, Claude, Anthropic)",
+    "AI/ML Integration",
     "ReactJS & Next.js",
-    "TypeScript & JavaScript (ES6+)",
-    "GraphQL & REST APIs",
-    "Tailwind CSS",
-    "Redux",
-    "HTML & CSS",
-    "Git & GitHub",
-    "Docker",
-    "Responsive Design",
-    "Figma"
+    "PostgreSQL & MongoDB",
+    "REST APIs & Webhooks",
+    "GitHub & Open-Source Deployment",
+    "Docker & Cloud Deploy",
+    "Prompt Engineering",
+    "Payment APIs (Stripe, Paystack)",
+    "TypeScript & JavaScript",
+    "Affiliate & Monetization Flows"
   ];
 
   return (
@@ -148,12 +148,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              A Full Stack Software Engineer who loves to transform complex requirements into beautiful, 
-              interactive frontend interfaces and highly performant backend architectures. I am skilled in designing and building scalable 
-              full stack applications using Node.js, Express, React, Next.js, and modern databases like MongoDB and PostgreSQL. 
-              I thrive in environments where user experience and system reliability are paramount, focusing on secure REST and GraphQL APIs, 
-              responsive design, and robust state management. My passion for full stack engineering drives me to continually tackle complex 
-              performance optimizations and deliver comprehensive end-to-end digital products.
+              A Senior Software Engineer with deep expertise in Python and AI/LLM integration. I specialize in rapidly building and scaling AI-powered digital products — from intelligent chatbots and automated content pipelines to full-stack monetizable platforms. I have hands-on experience integrating OpenAI, Claude (Anthropic), and other leading LLM APIs into production systems, and I am passionate about shipping practical, working solutions fast. I thrive on leveraging open-source AI tools, deploying third-party AI platforms, and connecting AI capabilities to real-world business outcomes including payment processing and affiliate monetization.
             </p>
 
             {/* <p>

@@ -4,13 +4,13 @@ title: 'SwapXNext'
 cover: './swapxnext.png'
 external: 'https://swapxnext.com/'
 tech:
-  - Node.js
+  - Python (FastAPI)
   - React
   - Next.js
   - WebSockets
   - PostgreSQL
 ---
 
-A cryptocurrency-to-fiat exchange providing users with instant fiat payouts. As the Lead Full Stack Engineer, I built the robust Next.js and Node.js application architecture handling complex data schemas for KYC, secure crypto wallets, and real-time transaction processing APIs.
+A cryptocurrency-to-fiat exchange providing users with instant fiat payouts. As the Lead Engineer, I built Python FastAPI backend services handling complex data schemas for KYC, secure crypto wallet integrations, and real-time transaction processing APIs.
 
-I ensured a flawless user experience using optimistic UI updates, engineered real-time WebSocket backend services for live exchange rates, and developed a highly scalable end-to-end system that ensures reliable payment processing and secure backend data handling.
+I engineered real-time WebSocket services for live exchange rates, integrated third-party payment and crypto APIs, and developed the Next.js frontend — delivering a highly scalable, reliable end-to-end platform.

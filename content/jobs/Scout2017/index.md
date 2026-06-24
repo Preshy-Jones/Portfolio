@@ -7,5 +7,5 @@ range: 'January - June 2017'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
-- Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern
-- Developed, documented, and managed full stack web platforms using Node.js, React and Styled Components
+- Collaborated with a small team to design and build a conference platform, leveraging Python scripts for automated content aggregation and website generation
+- Developed and documented reusable web components in React, enabling rapid product templating for different event verticals

@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm Precious, a Full Stack Software Engineer. I love to build accessible, interactive web applications and robust backend APIs using Node.js, React, Next.js, and modern tools like Tailwind CSS.
+        I'm Precious, a Senior Software Engineer specializing in Python and AI/LLM integration. I build and scale AI-powered digital products using OpenAI, Claude, and Anthropic APIs — from intelligent chatbots to automated monetizable platforms with React and Next.js.
       </p>
     </>
   );

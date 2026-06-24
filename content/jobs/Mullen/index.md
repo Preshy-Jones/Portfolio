@@ -7,6 +7,6 @@ range: 'July - December 2015'
 url: 'https://us.mullenlowe.com/'
 ---
 
-- Developed and maintained responsive full stack platforms for client applications using Node.js, Express, React, HTML, CSS, and JavaScript
-- Designed and tested complex UI components and REST APIs to ensure high performance and seamless client-server communication
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Developed and deployed Python backend services and React frontends for digital marketing campaigns across a diverse client portfolio
+- Built automated content pipelines and REST APIs enabling scalable digital product creation for brands including JetBlue, Lovesac, and U.S. Cellular
+- Integrated third-party marketing and payment APIs into client platforms, accelerating time-to-ship on key deliverables

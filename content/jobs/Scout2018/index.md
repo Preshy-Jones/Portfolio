@@ -7,6 +7,6 @@ range: 'January - April 2018'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
-- Worked with a team of three designers to build a full stack marketing website and e-commerce API platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web using Node.js, React, and modern CSS
-- Interfaced with clients on a weekly basis, providing technological expertise on frontend performance and backend API design
+- Built a full stack e-commerce platform for [blistabloc](https://blistabloc.com) using Python (Flask) and React, integrating payment processing APIs for end-to-end monetization
+- Automated product page generation and content pipelines using Python scripts, enabling rapid iteration on landing pages
+- Interfaced with clients weekly, providing technical expertise on product conversion and backend API design

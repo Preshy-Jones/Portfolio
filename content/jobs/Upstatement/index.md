@@ -1,12 +1,12 @@
 ---
 date: '2018-05-14'
-title: 'Full Stack Engineer'
+title: 'Senior Software Engineer'
 company: 'Upstatement'
 location: 'Boston, MA'
 range: 'May 2018 - Present'
 url: 'https://www.upstatement.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with robust full stack technologies, frameworks, and libraries such as Node.js, Express, ReactJS, Next.js, and MongoDB
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis to translate design concepts and complex backend requirements into robust implementations
+- Built and shipped AI-powered digital products using Python, integrating OpenAI and Claude LLM APIs into production-grade pipelines for content generation and automation
+- Developed full-stack web applications with React and Next.js that interface with Python FastAPI backends, handling payment processing and affiliate monetization flows
+- Reviewed, understood, and deployed complex third-party open-source AI projects to accelerate product delivery for clients across different verticals
